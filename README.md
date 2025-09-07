@@ -1,101 +1,99 @@
-## 📄 `README.md`
+# FoodMunch 🍽️
 
-```markdown
-# 🍴 Food Munch Website
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://vijayvittal-dev.github.io/foodmunch/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-A responsive food ordering and restaurant landing page built with **HTML, CSS, and Bootstrap**.  
-It is designed to showcase menu items, highlight features, and provide easy navigation for users.
-
----
-
-## 🚀 Features
-- 🏠 **Landing Page Banner** with call-to-action buttons.  
-- ⭐ **Why Choose Us Section** highlighting food service, freshness, and offers.  
-- 📖 **Explore Menu Section** with categorized food cards.  
-- 🥗 **Healthy Food Section** promoting organic and fresh items.  
-- 🚚 **Delivery & Payment Section** with smooth order process.  
-- 🎁 **Thanking Customers Section** with redeemable gift option.  
-- 📱 **Follow Us Section** with social media links.  
-- ⚡ **Fully Responsive Design** using Bootstrap 4.  
+**FoodMunch** is a modern, responsive, and visually appealing food website designed to showcase a wide variety of dishes. It offers a smooth user experience with a clean layout, intuitive navigation, and professional typography.
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3**
-- **Bootstrap 4**
-- **FontAwesome Icons**
-- **Google Fonts**
+## 🌐 Live Demo
+
+Experience the website live: [FoodMunch](https://vijayvittal-dev.github.io/foodmunch/)
+
+---
+
+## ✨ Key Features
+
+* Fully responsive layout for desktops, tablets, and mobile devices
+* Clean, modern, and visually appealing design
+* Menu sections highlighting popular and featured dishes
+* Smooth navigation and intuitive interface for enhanced UX
+* Google Fonts integration for professional typography
+
+---
+
+## 🛠️ Technologies & Tools
+
+* **HTML5** – Semantic and structured markup
+* **CSS3** – Responsive styling and modern layouts
+* **Google Fonts** – Elegant and readable typography
+* **VS Code** – Development environment
 
 ---
 
 ## 📂 Project Structure
+
+```
+foodmunch/
+│
+├── index.html        # Homepage
+├── style.css         # CSS stylesheet
+├── assets/           # Images, icons, and media
+└── README.md         # Project documentation
 ```
 
-Food-Munch/
-│── index.html      # Main HTML file
-│── style.css       # Custom styles
-│── README.md       # Project documentation
-
-````
-
 ---
 
-## 📸 Screenshots
+## 🚀 Getting Started
 
-### 🖥️ Desktop View - Banner Section
-![Desktop Banner](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png)
+Follow these steps to run the project locally:
 
-### ⭐ Why Choose Us Section
-![Why Choose Us](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/food-serve.png)
-
-### 📖 Explore Menu Section
-![Explore Menu](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/em-ginger-fried-img.png)
-
-### 🥗 Healthy Food Section
-![Healthy Food](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/healthy-food-plate-img.png)
-
-### 🚚 Delivery & Payment Section
-![Delivery & Payment](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/delivery-payment-section-img.png)
-
-### 🎁 Thanking Customers Section
-![Thanking Customers](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/thanking-customers-section-img.png)
-
-### 📱 Follow Us Section
-![Follow Us](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/food-munch-logo-light.png)
-
----
-
-## ⚙️ How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/food-munch.git
-````
-
-2. Open the project folder:
+1. Clone the repository:
 
    ```bash
-   cd food-munch
+   git clone https://github.com/vijayvittal-dev/foodmunch.git
    ```
-3. Open `index.html` in your browser.
-   (Optional: Use VS Code Live Server for best experience)
+2. Navigate to the project folder:
+
+   ```bash
+   cd foodmunch
+   ```
+3. Open `index.html` in your web browser.
 
 ---
 
-## 🌐 Deployment
+## 🎨 Screenshots
 
-You can host this project on **GitHub Pages**:
-
-1. Go to your repo → **Settings** → **Pages**
-2. Select branch: `main` → `/ (root)`
-3. Save → Your site will be live at:
-
-   ```
-   https://your-username.github.io/food-munch/
-   ```
+![Homepage Screenshot](assets/homepage.png)
+*Clean and modern homepage highlighting food menus.*
 
 ---
 
-## 👨‍💻 Author
+## 🔮 Future Enhancements
 
-Developed by **\[Your Name]**
+* Add dynamic menu filtering (e.g., by cuisine, price, or rating)
+* Integrate an ordering or booking system
+* Add animations and hover effects for interactive UI
+* Implement dark mode for better accessibility
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Make changes and commit (`git commit -m "Add new feature"`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
